@@ -1,0 +1,10 @@
+{
+    "mainList": {"movies": [{
+        "genre": "Sci-Fi",
+        "title": "Inception"
+    }]},
+    "watchlist": {
+        "movies": [],
+        "name": "Test"
+    }
+}

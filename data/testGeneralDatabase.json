@@ -1,0 +1,13 @@
+{
+    "mainList": {"movies": [{
+        "genre": "Sci-Fi",
+        "title": "Inception"
+    }]},
+    "watchlist": {
+        "movies": [{
+            "genre": "Action",
+            "title": "RRR"
+        }],
+        "name": "Test"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "mainList": {"movies": [
+        {
+            "genre": "Sci-Fi",
+            "title": "Inception"
+        },
+        {
+            "genre": "Action",
+            "title": "Top Gun"
+        },
+        {
+            "genre": "Action",
+            "title": "Batman"
+        },
+        {
+            "genre": "Romance",
+            "title": "Titanic"
+        },
+        {
+            "genre": "Action",
+            "title": "Spiderman"
+        },
+        {
+            "genre": "Action",
+            "title": "Hi"
+        },
+        {
+            "genre": "Action",
+            "title": "Hello"
+        },
+        {
+            "genre": "Thriller",
+            "title": "Night Manager"
+        },
+        {
+            "genre": "Action",
+            "title": "Spiderman 2"
+        }
+    ]},
+    "watchlist": {
+        "movies": [{
+            "genre": "Romance",
+            "title": "Titanic"
+        }],
+        "name": "My Watchlist"
+    }
+}

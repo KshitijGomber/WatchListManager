@@ -1,0 +1,7 @@
+{
+    "mainList": {"movies": []},
+    "watchlist": {
+        "movies": [],
+        "name": "Test"
+    }
+}
